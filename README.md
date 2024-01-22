@@ -1,5 +1,5 @@
 <div align="left">
-<a href="https://app.daily.dev/deszcelo"><img src="https://api.daily.dev/devcards/84e5d71b16da4adc9406b554ac44ad2b.png?r=u72" width="400" align="right" alt="Roberto's Dev Card"/></a>
+<a href="https://app.daily.dev/deszcelo"><img src="https://api.daily.dev/devcards/84e5d71b16da4adc9406b554ac44ad2b.png?r=u72" width="256" align="right" alt="Roberto's Dev Card"/></a>
 
 ### Hi 👋 my name is Roberto.
 
